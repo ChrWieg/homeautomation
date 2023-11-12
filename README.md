@@ -9,4 +9,4 @@ My System:
 
 ### Disclaimer
 
-No Garantie for all given tipps and tricks! I am not an electrician, so I can not guarantee for electrical information given here.
+I do not guarantee the tips and tricks given here! I am not an electrician, so you should seek advice from a professional to avoid accidents.
