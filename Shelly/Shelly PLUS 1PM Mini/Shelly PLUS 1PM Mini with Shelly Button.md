@@ -1,2 +1,0 @@
-#Shelly PLUS 1PM Mini with Shelly Button
-Test
